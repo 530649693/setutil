@@ -1,0 +1,3 @@
+public enum WaterColors {
+	BULE,YELLOW,RED,GREEN,GRAY,BLACK,WHITE
+}
